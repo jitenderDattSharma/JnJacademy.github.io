@@ -4,7 +4,7 @@ video#bgvideo{
     min-width: 100%;
     z-index: -100;
 }
-@media (max-device-width:768px){
+/* @media (max-device-width:768px){
   body{
   background:
  url(https://i.pinimg.com/originals/7e/94/21/7e9421b498098eca6bff7d580d5aa3a4.jpg) center center fixed;
@@ -13,7 +13,7 @@ video#bgvideo{
   #bgvideo{
   display: none; 
   }
- }
+ } */
  #body{
    position:relative;
  }
